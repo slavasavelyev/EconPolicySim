@@ -1,0 +1,15 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "EconPolicySim: reproducible toy policy simulator (agent-based)"
+version: 0.1.0
+date-released: 2026-01-04
+authors:
+  - family-names: "YOUR_FAMILY_NAME"
+    given-names: "YOUR_GIVEN_NAME"
+repository-code: "https://github.com/YOUR_GITHUB_USERNAME/econpolicysim"
+license: MIT
+keywords:
+  - agent-based modeling
+  - computational economics
+  - simulation
+  - public policy
