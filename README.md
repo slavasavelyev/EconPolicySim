@@ -13,7 +13,7 @@ and **honest metrics**.
 - The code has tests + CI.
   
 ![CI](https://github.com/slavasavelyev/OrbitLab/actions/workflows/ci.yml/badge.svg)
-![Baseline vs reform](docs/comparison.png)
+![Baseline vs reform](comparison.png) 
 ---
 
 ## Quick start (5 minutes)
