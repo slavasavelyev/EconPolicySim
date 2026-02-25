@@ -11,7 +11,8 @@ and **honest metrics**.
 - You can reproduce results with 1 command.
 - You can change a policy lever and see how metrics move.
 - The code has tests + CI.
-
+  
+![CI](https://github.com/slavasavelyev/OrbitLab/actions/workflows/ci.yml/badge.svg)
 ![Baseline vs reform](docs/comparison.png)
 ---
 
